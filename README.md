@@ -5,7 +5,7 @@
 I am **Bonggo Prasetyanto(Fullstack Web & Apps Developer)**. I ✨ like ✨  problem solving, coding, coffee, working out, video games, conversations and many more.
 
 - 🔭 I’m currently working on React Native
-- 🌱 I’m currently learning Node Js
+- 🌱 I’m currently learning NodeJs, Python, Go
 - 👯 I’m looking to collaborate on new business ideas.
 <!-- - 🤔 I’m looking for help with on new business ideas. -->
 - 💬 Ask me about life advice🤣🤣 , tech solution 👩‍💻 , video games 🎮, food 🌯 🫔 🥗 🥘 🫕 🥫 🍝 🍜 🍲 🍛.
